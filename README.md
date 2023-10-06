@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gowtham Sai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# co3094dfd92493c9bcc978bec
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+Quick start:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9saii&label=Profile%20views&color=0e75b6&style=flat" alt="9saii" /> </p>
+```
+$ npm install
+$ npm start
+````
 
-<p align="left"> <a href="https://twitter.com/gowtham01487781" target="blank"><img src="https://img.shields.io/twitter/follow/gowtham01487781?logo=twitter&style=for-the-badge" alt="gowtham01487781" /></a> </p>
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-- 🌱 I’m currently learning **WebDevelopment**
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- 📫 How to reach me **surugowtham27@gmail.com**
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gowtham01487781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowtham01487781" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suru-gowtham-sai-030a2b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suru-gowtham-sai-030a2b244" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=9saii&show_icons=true&locale=en&layout=compact" alt="9saii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9saii&" alt="9saii" /></p>
+Happy Coding!
