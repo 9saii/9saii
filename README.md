@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gowtham Sai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/IYvq946tRWb414aaSvXE4M2ZPDXEiffmv3QpT2MMzvQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9j/YWUxMmZkZGQ5ZDY5/ODI5MDFkODI1ODBi/ZGYzMjFkODFmYjI5/OTE0MTA5OGNhMWMy/ZDQ4OTE4NzA4Mjdi/ZjE3LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2">
+<img align="right" alt="coding" width="400" src="[https://imgs.search.brave.com/IYvq946tRWb414aaSvXE4M2ZPDXEiffmv3QpT2MMzvQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9j/YWUxMmZkZGQ5ZDY5/ODI5MDFkODI1ODBi/ZGYzMjFkODFmYjI5/OTE0MTA5OGNhMWMy/ZDQ4OTE4NzA4Mjdi/ZjE3LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2](https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9saii&label=Profile%20views&color=0e75b6&style=flat" alt="9saii" /> </p>
 
